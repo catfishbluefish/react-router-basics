@@ -1,5 +1,5 @@
-#Getting Started
-Checkout this repo, install dependencies, then start the gulp process with the following:
+##Getting Started
+Note that you need git installed. If you're not familiar with git, you shouldn't even be learning about frameworks yet. Now git!
 
 ```
 	> git clone https://github.com/andesitedesign/react-router-basics.git
@@ -7,3 +7,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 	> npm install
 	> npm start
 ```
+
+##Viewing Project
+You can view your project by visiting: localhost:8080
+Note that your browser will automatically update when you make changes.
