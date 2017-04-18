@@ -2,11 +2,11 @@
 import React from 'react';
 import { render } from 'react-dom';
 
-// Components
-import App from './components/App';
+//Routes
+import routes from './router';
 
 // Render
 render(
-  <App />,
-  document.getElementById('root')
+	routes, 
+	document.getElementById('root')
 );
